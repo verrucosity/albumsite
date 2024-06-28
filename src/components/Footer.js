@@ -1,10 +1,9 @@
 import React from 'react';
-import './Footer.css';
 
-const Footer = () =>{
+const Footer = () => {
   return (
-    <footer>
-      <p>&copy; 2024 Malakinesis. All Rights Reserved.</p>
+    <footer className="bg-gray-800 text-white text-center p-4 fixed bottom-0 w-full">
+      <p>&copy; 2024 Malakinesis. All rights reserved.</p>
     </footer>
   );
 };
