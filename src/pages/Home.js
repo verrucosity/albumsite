@@ -22,7 +22,7 @@ const Home = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ delay: 1, duration: 1 }}
         >
-          This is the home page where you can find the latest updates and tracks from the artist.
+          find my latest beats here.
         </motion.p>
       </main>
       <Footer />
